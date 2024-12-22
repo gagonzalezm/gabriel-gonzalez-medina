@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gabriel González Medina
+title: 
 ---
 
 # Curriculum Vitae
