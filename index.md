@@ -45,22 +45,11 @@ Perfiles:
 * Software: R, SPSS, STATA, JAMOVI
 * Idiomas: Español (Nativo), Inglés (Avanzado), Portugués (Intermedio)
 
-### Experiencia
+### Experiencia 
 
-* **Profesor postgrado** (2024)
-  UNIVERSIDAD DE LOS ANDES, FACULTAD DE MEDICINA
-  Curso Inferencia Causal 
-* **Ayudante cursos de postgrado** (2022–2024)  
-  Pontificia Universidad Católica de Chile, Facultad de Medicina  
-  Cursos: Salud y Sociedad, Salud en el Trabajo
+#### Investigación
 
-* **Coordinador de Investigación** (2014–2016)  
-  Hospital Clínico Psiquiátrico, Universidad de Chile  
-  Programa de detección temprana de psicosis, Análisis de datos
-
-  
-
-### Publicaciones
+##### Publicaciones
 * González-Medina, G. A. et al. (2024).**Lifetime prevalence of psychotic-like experiences and associated factors in Chile**   
   [Social Psychiatry and Psychiatric Epidemiology](https://link.springer.com/article/10.1007/s00127-024-02741-y)
 * Landaeta-Díaz, L., Durán-Agüero, S. and González-Medina, G. (2023). **Exploring food intake networks and anhedonia symptoms in Chilean Adults**  
@@ -71,6 +60,24 @@ Perfiles:
    [Appetite](https://doi.org/10.1016/j.appet.2021.105259)
 * González-Medina, G. A., Letelier-Fuentes, N. E. and Aguirre-Iduya, D. (2020)  **Un enfoque social sobre las diferencias de género en depresión en trabajadores: la importancia del conflicto trabajo-familia’**
   [Revista de Psicología] (https://revistapsicologia.uchile.cl/index.php/RDP/article/view/55335)
+
+* **Hospital Clínico Psiquiátrico, Universidad de Chile** (2014–2016)  
+   Coordinador de investigación
+  Programa de detección temprana de psicosis, Análisis de datos
+
+## Docencia
+* **Universidad de los Andes, Facultad de Medicina** (2024)
+   Profesor Curso Inferencia Causal 
+* **Pontificia Universidad Católica de Chile, Facultad de Medicina** (2022–2024)
+   Cursos: Salud y Sociedad, Salud en el Trabajo
+   Asistencia al profesor principal en cursos de Magíster en Salud Pública
+   Diseño de las evaluaciones, programación del curso, revisión del trabajo de los estudiantes.
+* **Universidad de Chile, Escuela de psicología** (2023)
+                                                                                                                                            
+  
+
+
+
   
 
 ### Referencias
