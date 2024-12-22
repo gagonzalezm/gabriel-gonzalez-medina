@@ -5,8 +5,6 @@ title:
 
 # Curriculum Vitae
 
-## Gabriel Alonso González Medina
-
 Email: [ps.gabriel.gm@gmail.com](mailto:ps.gabriel.gm@gmail.com)  
 
 Perfiles:  
