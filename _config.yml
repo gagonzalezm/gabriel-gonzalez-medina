@@ -13,3 +13,17 @@ theme-color: "#202020"    # The main color used in the sidebar
 # Other common Hyde settings
 permalink: pretty
 paginate: 5
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "GitHub"
+    url: /github/
+  - title: "Contact"
+    url: /contact/
