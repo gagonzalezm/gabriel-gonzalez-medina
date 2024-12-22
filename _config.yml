@@ -1,1 +1,15 @@
-remote_theme: poole/hyde
+title: Gabriel González Medina
+description: Your Site Description
+baseurl: 
+url: 
+
+# Hyde specific settings
+sidebar-about-description: "Your sidebar description"
+sidebar_nav_version: 2  # 1 or 2, for different navigation styles
+
+# Hyde theme colors (optional)
+theme-color: "#202020"    # The main color used in the sidebar
+
+# Other common Hyde settings
+permalink: pretty
+paginate: 5
