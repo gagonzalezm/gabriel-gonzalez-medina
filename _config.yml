@@ -1,19 +1,21 @@
 title: Gabriel González Medina
 description: Your Site Description
-baseurl: 
-url: 
+baseurl: "/gabriel-gonzalez-medina"  # Add this - must match your repository name
+url: "https://gagonzalezm.github.io"  # Add this - your GitHub Pages URL
 
 # Hyde specific settings
+remote_theme: poole/hyde  # Add this to use Hyde theme
 sidebar-about-description: "Your sidebar description"
-sidebar_nav_version: 2  # 1 or 2, for different navigation styles
+sidebar_nav_version: 2
 
-# Hyde theme colors (optional)
-theme-color: "#202020"    # The main color used in the sidebar
+# Hyde theme colors
+theme-color: "#202020"
 
 # Other common Hyde settings
 permalink: pretty
 paginate: 5
 
+# Navigation
 navigation:
   - title: "Home"
     url: /
