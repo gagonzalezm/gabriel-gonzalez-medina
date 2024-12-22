@@ -1,7 +1,7 @@
 title: Gabriel González Medina
-description: Your Site Description
-baseurl: "/gabriel-gonzalez-medina"  # Add this - must match your repository name
-url: "https://gagonzalezm.github.io"  # Add this - your GitHub Pages URL
+theme: minima
+baseurl: "/ggm"  # This should match your repository name
+url: "https://gagonzalezm.github.io"
 
 # Hyde specific settings
 remote_theme: poole/hyde  # Add this to use Hyde theme
@@ -16,16 +16,8 @@ permalink: pretty
 paginate: 5
 
 # Navigation
-navigation:
-  - title: "Home"
-    url: /
-  - title: "CV"
-    url: /cv/
-  - title: "Research"
-    url: /research/
-  - title: "Projects"
-    url: /projects/
-  - title: "GitHub"
-    url: /github/
-  - title: "Contact"
-    url: /contact/
+header_pages:
+  - cv.md
+  - research.md
+  - projects.md
+  - contact.md
