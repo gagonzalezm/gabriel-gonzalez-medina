@@ -16,7 +16,7 @@ Perfiles:
 [LinkedIn](https://www.linkedin.com) | 
 [GitHub](https://github.com)
 
-### Educación
+## Educación
 
 * **Doctorado en Epidemiología** (2021–Presente)  
   Pontificia Universidad Católica de Chile, Santiago de Chile  
@@ -45,11 +45,11 @@ Perfiles:
 * Software: R, SPSS, STATA, JAMOVI
 * Idiomas: Español (Nativo), Inglés (Avanzado), Portugués (Intermedio)
 
-### Experiencia 
+## Experiencia 
 
-#### Investigación
+### Investigación
 
-##### Publicaciones
+#### Publicaciones
 * González-Medina, G. A. et al. (2024).**Lifetime prevalence of psychotic-like experiences and associated factors in Chile**   
   [Social Psychiatry and Psychiatric Epidemiology](https://link.springer.com/article/10.1007/s00127-024-02741-y)
 * Landaeta-Díaz, L., Durán-Agüero, S. and González-Medina, G. (2023). **Exploring food intake networks and anhedonia symptoms in Chilean Adults**  
@@ -61,26 +61,30 @@ Perfiles:
 * González-Medina, G. A., Letelier-Fuentes, N. E. and Aguirre-Iduya, D. (2020)  **Un enfoque social sobre las diferencias de género en depresión en trabajadores: la importancia del conflicto trabajo-familia’**
   [Revista de Psicología] (https://revistapsicologia.uchile.cl/index.php/RDP/article/view/55335)
 
+#### Dirección y coordinación de estudios
+**Universidad Alberto Hurtado, Facultad de Psicología** (2018)
+ Investigador principal en proyecto financiado por fondos internos UAH: El rol del conflicto trabajo familia en las diferencias de género en depresión 
 * **Hospital Clínico Psiquiátrico, Universidad de Chile** (2014–2016)  
    Coordinador de investigación
   Programa de detección temprana de psicosis, Análisis de datos
 
-## Docencia
+### Docencia
 * **Universidad de los Andes, Facultad de Medicina** (2024)
-   Profesor Curso Inferencia Causal 
-* **Pontificia Universidad Católica de Chile, Facultad de Medicina** (2022–2024)
+   Profesor Curso Inferencia Causal
+* **Universidad Alberto Hurtado, Facultad de Psicología** (2017-2024)
+   Docencia cursos de postgrado en Psicología (Seminario de Investigación I, Taller de Investigación", "Métodos de Investigación en Ciencias Sociales")
+    *Guía de tesis de magíster:*
+    Constanza Fuentes Castillo (2021) “Relación entre la Crianza percibida por Adolescentes con su Ansiedad y la de sus Cuidadores principales”
+    Andrea González Rivera (2023). “Relación entre estrés parental y patrones de procesamiento sensorial infantil en madres y padres de niñas y niños identificados o con sospecha de autismo entre 3 y 12 años”
+    Docencia cursos de pregrado en Psicología ("Metodología de Investigación Cuantitativa I y II", "Epidemiología Social") 
+* **Pontificia Universidad Católica de Chile, Facultad de Medicina** (2022–2023)
    Cursos: Salud y Sociedad, Salud en el Trabajo
    Asistencia al profesor principal en cursos de Magíster en Salud Pública
    Diseño de las evaluaciones, programación del curso, revisión del trabajo de los estudiantes.
 * **Universidad de Chile, Escuela de psicología** (2023)
-                                                                                                                                            
-  
+   Profesor curso intensivo para Doctorado en psicología:Técnicas de ANOVA y modelos lineales generalizados en sus distintas aplicaciones                                                                                                                                   
 
-
-
-  
-
-### Referencias
+## Referencias laborales
 * Dr. Alejandra Vives. Directora Doctorado en Epidemiología P. Universidad Católica de Chile - [alvives@med.puc.cl](mailto:alvives@med.puc.cl)
 * Dr. Pablo Gaspar. Director de la Clínica Psiquiátrica de Universitaria de la Universidad de Chile- [pabgaspar@gmail.com](mailto:pabgaspar@gmail.com)
 * Dra. Javiera Navarro, directora del Magister en Clínica Relacional Universidad Alberto Hurtado - [jnavarro@uahurtado.cl](mailto:jnavarro@uahurtado.cl)]
