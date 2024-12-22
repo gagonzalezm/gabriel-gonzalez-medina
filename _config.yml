@@ -1,23 +1,4 @@
 title: Gabriel González Medina
 theme: minima
-baseurl: "/ggm"  # This should match your repository name
+baseurl: "/ggm"
 url: "https://gagonzalezm.github.io"
-
-# Hyde specific settings
-remote_theme: poole/hyde  # Add this to use Hyde theme
-sidebar-about-description: "Your sidebar description"
-sidebar_nav_version: 2
-
-# Hyde theme colors
-theme-color: "#202020"
-
-# Other common Hyde settings
-permalink: pretty
-paginate: 5
-
-# Navigation
-header_pages:
-  - cv.md
-  - research.md
-  - projects.md
-  - contact.md
